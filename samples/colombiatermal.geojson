@@ -1,0 +1,271 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.289521,
+          4.942361
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dam",
+        "name": "Piscina termal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.26345,
+          4.876952
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dam",
+        "name": "Piscina termal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.185049,
+          4.835003
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dam",
+        "name": "Piscina termal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.134307,
+          4.743378
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dam",
+        "name": "Piscina termal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.98948,
+          5.61111
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dam",
+        "name": "Piscina termal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.98466,
+          5.58761
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dam",
+        "name": "Piscina termal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.43260,
+          6.46003
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dam",
+        "name": "Piscina termal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.10524,
+          4.92381
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dam",
+        "name": "Piscina termal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91657,
+          4.54807
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dam",
+        "name": "Piscina termal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.09416,
+          4.59334
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dam",
+        "name": "Piscina termal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.53089,
+          5.58601
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dam",
+        "name": "Piscina termal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55266,
+          5.07750
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dam",
+        "name": "Piscina termal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23663,
+          2.75614
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dam",
+        "name": "Piscina termal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.54851,
+          4.83793
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dam",
+        "name": "Piscina termal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.43995,
+          5.00877
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dam",
+        "name": "Piscina termal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20492,
+          4.36647
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dam",
+        "name": "Piscina termal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38792,
+          4.47441
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dam",
+        "name": "Piscina termal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.48963,
+          2.33017
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dam",
+        "name": "Piscina termal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.50673,
+          2.30555
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dam",
+        "name": "Piscina termal"
+      }
+    }
+  ]
+}
