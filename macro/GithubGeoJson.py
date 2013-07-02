@@ -10,7 +10,7 @@
   of the kind embed
 
   For instance:
-  <<GithubJson(https://embed.github.com/view/geojson/ikks/moinmoin-github-osm/master/samples/colombiatermal.geojson)>>
+  <<GithubGeoJson(https://embed.github.com/view/geojson/ikks/moinmoin-github-osm/master/samples/colombiatermal.geojson)>>
 
   would show a nice map with openstreetmap as it base layers and all
   the geometries in a nice leaflet container by github and mapbox.
