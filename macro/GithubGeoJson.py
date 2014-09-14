@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-#Author: Igor Támara igor@tamarapatino.org
-#Date: 01/07/2013
-#No warranties.
+# Author: Igor Támara igor@tamarapatino.org
+# Date: 01/07/2013
+# No warranties.
 """
   MoinMoin - Geo Json github
   Embeds a geojson map from github inside moinmoin
@@ -22,5 +22,5 @@
 
 def execute(macro, args):
     if not args.startswith('https://embed.github.com/view/geojson/'):
-        return "you must offer something that starts with https://embed.github..."
+        return "you must offer something that starts with https://embed.git"
     return macro.formatter.rawHTML('<script src="{0}"></script>'.format(args))
